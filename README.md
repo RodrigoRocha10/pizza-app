@@ -1,16 +1,15 @@
-# calc_flutter
 
-A new Flutter project.
+# Pizza App 🍕
 
-## Getting Started
+Bem-vindo ao repositório do **Pizza App**! Este projeto é uma aplicação web/mobile (ou outro formato, conforme aplicável) para encomendas de pizzas. Os utilizadores podem navegar pela lista de pizzas, ver detalhes de cada uma e fazer pedidos diretamente pela aplicação.
 
-This project is a starting point for a Flutter application.
+## Demonstração
 
-A few resources to get you started if this is your first Flutter project:
+### Página de Login
+![Página de Login](calc_flutter/assets/1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Página Inicial
+![Página Inicial](path/para/tua-imagem-home.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Página de Detalhes
+![Página de Detalhes](path/para/tua-imagem-details.png)
