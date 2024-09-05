@@ -6,10 +6,11 @@ Bem-vindo ao repositório do **Pizza App**! Este projeto é uma aplicação web/
 ## Demonstração
 
 ### Página de Login
-![Página de Login](calc_flutter/assets/1.png)
+![Página de Sign In](calc_flutter/assets/sign_in.png)
+![Página de Sign Up](calc_flutter/assets/sign_up.png)
 
 ### Página Inicial
-![Página Inicial](path/para/tua-imagem-home.png)
+![Página Inicial](calc_flutter/assets/initial_page.PNG)
 
 ### Página de Detalhes
-![Página de Detalhes](path/para/tua-imagem-details.png)
+![Página de Detalhes](calc_flutter/assets/details_page.PNG)
