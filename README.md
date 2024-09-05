@@ -12,6 +12,6 @@ Bem-vindo ao repositório do **Pizza App**! Este projeto é uma aplicação web/
 
 ### Página Inicial e Página de Detalhes
 <p float="left">
-  <img src="calc_flutter/assets/initial_page.PNG" width="45%" />
-  <img src="calc_flutter/assets/details_page.PNG" width="45%" />
+  <img src="calc_flutter/assets/initial_page.PNG" width="45%" class="p-10" />
+  <img src="calc_flutter/assets/details_page.PNG" width="45%" class="p-10" />
 </p>
