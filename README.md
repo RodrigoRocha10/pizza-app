@@ -4,18 +4,14 @@ Bem-vindo ao repositório do **Pizza App**! Este projeto é uma aplicação web/
 
 ## Demonstração
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  
-  ### Sign In Page  
-  <img src="calc_flutter/assets/sign_in.PNG" width="45%" alt="Página de Sign In"/>  
- 
-  ### Sign Up Page  
-  <img src="calc_flutter/assets/sign_up.PNG" width="45%" alt="Página de Sign Up"/>  
+### Sign In Page e Sign Up Page
+<p float="left">
+  <img src="calc_flutter/assets/sign_in.PNG" width="45%" />
+  <img src="calc_flutter/assets/sign_up.PNG" width="45%" />
+</p>
 
-  ### Página Inicial  
-  <img src="calc_flutter/assets/initial_page.PNG" width="45%" alt="Página Inicial"/>  
-
-  ### Página de Detalhes  
-  <img src="calc_flutter/assets/details_page.PNG" width="45%" alt="Página de Detalhes"/>  
-
-</div>
+### Página Inicial e Página de Detalhes
+<p float="left">
+  <img src="calc_flutter/assets/initial_page.PNG" width="45%" />
+  <img src="calc_flutter/assets/details_page.PNG" width="45%" />
+</p>
